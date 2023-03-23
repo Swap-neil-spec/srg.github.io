@@ -1,3 +1,2 @@
-# srg.github.io
-
-https://swap-neil-spec.github.io/srg.github.io/
+Project Portfolio
+Check it out here at: https://swap-neil-spec.github.io/srg.github.io/
